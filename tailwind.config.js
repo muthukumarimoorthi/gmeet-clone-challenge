@@ -9,7 +9,7 @@ export default {
     extend: {
       gridTemplateColumns: {
         'main-grid': '2.9fr 1.1fr',
-        'second-grid': '2fr 1fr'
+        'second-grid': '2.5fr 1fr'
       }
     },
   },
